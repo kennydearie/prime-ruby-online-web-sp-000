@@ -9,5 +9,5 @@ def prime?(number)
    #if n == 2
    #else  n < 2
 
-
+# https://www.youtube.com/watch?v=nHEzwf0e9Cs   resource 
 end
