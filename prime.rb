@@ -5,6 +5,7 @@ def prime?(n)
   return false if number < 2
   return true if number == 2
  # (2..n-1).each? {|int| return false if number % int == 0 } 
+ true
    #if n == 2
    #else  n < 2
 
